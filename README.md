@@ -15,7 +15,7 @@ O diferencial deste projeto está na etapa rigorosa de **Engenharia de Dados (ET
 
 ## 🖼️ Visualização (Dashboard)
 
-
+https://app.powerbi.com/view?r=eyJrIjoiNmI5MjA1MDYtNjQ2NS00Y2JjLWFlZDgtOTgwODhmNTIyMTA4IiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9
 <img width="1350" height="753" alt="image" src="https://github.com/user-attachments/assets/6acf4fdb-4e67-4290-b274-51e37c7c75ea" />
 
 
