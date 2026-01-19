@@ -1,4 +1,4 @@
-# 📊 Análise de Performance de Vendas & Teste A/B
+# 📊 Análise de Performance de Vendas & Teste ABC
 
 ![Status do Projeto](https://img.shields.io/badge/Status-Concluído-green)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
