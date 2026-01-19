@@ -15,7 +15,7 @@ O diferencial deste projeto está na etapa rigorosa de **Engenharia de Dados (ET
 
 ## 🖼️ Visualização (Dashboard)
 
-![Preview do Dashboard](images/dashboard_preview.png)
+
 <img width="1350" height="753" alt="image" src="https://github.com/user-attachments/assets/6acf4fdb-4e67-4290-b274-51e37c7c75ea" />
 
 
